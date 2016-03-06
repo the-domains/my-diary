@@ -1,0 +1,14 @@
+layout_spectrum: 0.4638298
+color:
+  saturation: 0.5531915
+  brandStrength: 0.8680851
+  lightness: 0.9191489
+  brandColors:
+    - '#FDFDFD'
+    - '#9A9A9A'
+    - '#F90D0D'
+    - '#5C9BF2'
+    - '#FAAC43'
+  rhythmicContrast: 0.5744681
+typography_spectrum: 0.1446809
+name: My diary
