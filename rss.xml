@@ -4,7 +4,7 @@
         <description><![CDATA[My diary]]></description>
         <link>https://thegrid.ai/my-diary/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 02:24:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 02:35:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/my-diary/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/my-diary/329174ba-0410-45b2-83d1-38d3665b6fea/index.html</link>
             <guid isPermaLink="false">329174ba-0410-45b2-83d1-38d3665b6fea</guid>
             <pubDate>Thu, 10 Mar 2016 02:24:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Interesting]]></title>
+            <description><![CDATA[<article><h1>Interesting</h1><p>And in a flash of light, he was gone. A man who once ran a marathon because it was on his way. A man whose blood smells like cologne. A man who's won a lifetime achievement award, twice. He doesn't always drink beer, but when he does, you know what beer he drinks.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e21759439a890cfad92c427256d12ccb2e429de7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/my-diary/interesting/index.html</link>
+            <guid isPermaLink="false">a2d1be80-f4f2-4d02-ad93-d6ca7fe9da01</guid>
+            <pubDate>Thu, 10 Mar 2016 02:35:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
