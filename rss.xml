@@ -4,7 +4,7 @@
         <description><![CDATA[My diary]]></description>
         <link>https://thegrid.ai/my-diary/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 02:35:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 02:36:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/my-diary/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/my-diary/329174ba-0410-45b2-83d1-38d3665b6fea/index.html</link>
             <guid isPermaLink="false">329174ba-0410-45b2-83d1-38d3665b6fea</guid>
             <pubDate>Thu, 10 Mar 2016 02:24:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lab test รัวๆ]]></title>
+            <description><![CDATA[<article><h1>Lab test รัวๆ</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/afc2375a234ea9aa5ba90967910301e015433c91.png"></article>]]></description>
+            <link>https://thegrid.ai/my-diary/lab-test/index.html</link>
+            <guid isPermaLink="false">4a4caa81-140f-4599-a381-14b718ca7282</guid>
+            <pubDate>Thu, 10 Mar 2016 02:35:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Interesting]]></title>
