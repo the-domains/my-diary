@@ -4,7 +4,7 @@
         <description><![CDATA[My diary]]></description>
         <link>https://thegrid.ai/my-diary/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 02:36:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 02:36:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/my-diary/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/my-diary/329174ba-0410-45b2-83d1-38d3665b6fea/index.html</link>
             <guid isPermaLink="false">329174ba-0410-45b2-83d1-38d3665b6fea</guid>
             <pubDate>Thu, 10 Mar 2016 02:24:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Another day with Grand master!]]></title>
+            <description><![CDATA[<article><h1>Another day with Grand master!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04e4127c26ed702a7bfddb6e6b639b1847767daf.png"></article>]]></description>
+            <link>https://thegrid.ai/my-diary/another-day-with-grand-master/index.html</link>
+            <guid isPermaLink="false">d05569d0-17c1-4c91-ae42-8f8990a6d8da</guid>
+            <pubDate>Thu, 10 Mar 2016 02:35:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Meme that boom now!]]></title>
